@@ -1,0 +1,5 @@
+1. To trigger the event click the mouse anywhere on the map. 
+2. The event should span a witcher medallion a one zombie miner.
+3. Any ore blobs that enter the area through pathing should turn into bloodyOreBloobs.
+4. The zombie miner hunts down notfull miners and turns them into more zombie miners
+5. Also bloody ore bloobs path to zombies and are remvoved if they fine a zombie before the game ends(The zombie drinks them).
