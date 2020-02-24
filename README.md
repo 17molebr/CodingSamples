@@ -8,4 +8,6 @@ Huffman.py- a program that creates huffman encoded files and also can decode the
 
 JavaGame- a 2d Java program that is a project from my object oriented programming class. Uses processing core to run. 
 
-Project1.c - The first project from my unix systems course. This project blends bmp images together using bilinear interpolation
+Project1.c - The first project from my unix systems course. This project blends bmp images together using bilinear interpolation.
+
+SignalCatching- A simple c program for unix systems that catches all signals and creates a child and parent that are nearly indestructible. 
